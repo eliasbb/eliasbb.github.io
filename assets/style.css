@@ -1,0 +1,26 @@
+h1 {
+color: darkblue;
+font size: 46px;
+font style: Helvetica;
+
+}
+.score{
+color: grey;
+}
+.gold {
+  color: gold;
+}
+.silver {
+  color: silver;
+}
+.bronze {
+  color: #cc7a00;
+}
+body {
+  background-color: #33ff33;
+}
+
+#gameLink {
+text-align: center;
+border: 1px solid gray;
+}
